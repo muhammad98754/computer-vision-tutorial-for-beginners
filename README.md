@@ -6,4 +6,8 @@ Opencv is an opensource computer vision library.so computer vision is the way of
 open cv is a library of programming functions mainly aimed at real time computer vision.it was created by intel and later supported by willow garage and now maintained by itseez.it is free and very easy to install.
 
 that was a brief introduction about open cv so lets start.i will explain everything in a simple and easy to learn way ,so let's get started.
+
+
+
+
 ![image](https://user-images.githubusercontent.com/130402856/232845993-c68f50a1-bb6e-4f53-82ea-23e0fdfb94ec.png)
