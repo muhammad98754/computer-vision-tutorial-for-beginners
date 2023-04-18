@@ -10,4 +10,5 @@ that was a brief introduction about open cv so lets start.i will explain everyth
 
 
 
-![image](https://user-images.githubusercontent.com/130402856/232845993-c68f50a1-bb6e-4f53-82ea-23e0fdfb94ec.png)
+![image](https://user-images.githubusercontent.com/130402856/232846270-ca3206c0-0000-4763-bb6d-934e513cfa9d.png)
+
